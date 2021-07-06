@@ -1,1 +1,1 @@
-# Getting Started with Crypto Currancy App
+# Getting Started with Crypto Currency App
